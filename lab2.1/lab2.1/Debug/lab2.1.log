@@ -1,0 +1,28 @@
+﻿  lab2.1.cpp
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(4,4): error C2014: команда препроцессора не должна начинаться с пробела
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(6,1): error C2144: синтаксическая ошибка: перед "void" требуется ";"
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(6,6): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(54,13): error C2065: stdin: необъявленный идентификатор
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(54,26): error C2065: _IONBF: необъявленный идентификатор
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(54,5): error C3861: setvbuf: идентификатор не найден
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(55,13): error C2065: stdout: необъявленный идентификатор
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(55,27): error C2065: _IONBF: необъявленный идентификатор
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(55,5): error C3861: setvbuf: идентификатор не найден
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(77,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(78,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(87,5): error C3861: printf: идентификатор не найден
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(93,5): error C3861: printf: идентификатор не найден
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(99,5): error C3861: printf: идентификатор не найден
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(102,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(111,5): error C3861: printf: идентификатор не найден
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(117,5): error C3861: printf: идентификатор не найден
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(123,5): error C3861: printf: идентификатор не найден
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(126,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(135,5): error C3861: printf: идентификатор не найден
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(141,5): error C3861: printf: идентификатор не найден
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(147,5): error C3861: printf: идентификатор не найден
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(150,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(151,15): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(164,5): error C3861: printf: идентификатор не найден
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(170,5): error C3861: printf: идентификатор не найден
+C:\Users\23\OneDrive\Рабочий стол\lab2.1\lab2.1\lab2.1.cpp(176,5): error C3861: printf: идентификатор не найден
